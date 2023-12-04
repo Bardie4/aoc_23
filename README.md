@@ -7,4 +7,4 @@ Solving [Advent of Code 2023](https://adventofcode.com/2023) with Python.
 | 01  | ⭐       | ⭐       |
 | 02  | ⭐       | ⭐       |
 | 03  | ⭐       |          | 
-| 04  | ⭐       |          | 
+| 04  | ⭐       | ⭐       | 
