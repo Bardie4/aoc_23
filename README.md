@@ -10,9 +10,9 @@ Solving [Advent of Code 2023](https://adventofcode.com/2023) with Python.
 | 04  | ⭐       | ⭐       |
 | 05  |          |          |
 | 06  | ⭐       | ⭐       | 
-| 07  |          |          |
+| 07  | ⭐       | ⭐       |
 | 08  |          |          |
-| 09  |          |          |
+| 09  | ⭐       | ⭐       |
 | 10  |          |          |
 | 11  |          |          |
 | 12  |          |          |
