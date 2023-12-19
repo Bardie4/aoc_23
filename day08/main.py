@@ -11,7 +11,6 @@
 from itertools import cycle
 from math import lcm
 import re
-from time import sleep
 
 
 def input_to_list(file):

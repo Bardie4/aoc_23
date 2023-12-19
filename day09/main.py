@@ -1,5 +1,3 @@
-#%%
-
 def extrapolate(line, p2 = False):
     next_seq = []
 
@@ -25,5 +23,5 @@ if __name__ == '__main__':
     extrapolated = sum([extrapolate(line) for line in data])
     extrapolated_p2 = sum([extrapolate(line, True) for line in data])
 
-    print(extrapolated)
-    print(extrapolated_p2)
+    print("silver: ", extrapolated)
+    print("silver: ", extrapolated_p2)

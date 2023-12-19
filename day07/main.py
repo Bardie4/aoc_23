@@ -88,7 +88,7 @@ class Hand:
 
 
 if __name__ == "__main__":
-    with open("mission.txt", "r") as f:
+    with open("in.txt", "r") as f:
         input = f.read().splitlines()
 
     hands: list[Hand] = []
@@ -106,4 +106,4 @@ if __name__ == "__main__":
     for index, hand in enumerate(hands, start=1):
         bag += hand.bid * index
 
-    print(bag)
+    print("gold: ", bag)
